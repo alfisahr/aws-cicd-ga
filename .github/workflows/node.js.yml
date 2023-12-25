@@ -29,8 +29,8 @@ jobs:
 
       - name: "Build project"
         run: |
-          yarn install
-          yarn build
+          npm ci
+          npm run build
           rm -r node_modules
 
       - name: AWS CodeDeploy
