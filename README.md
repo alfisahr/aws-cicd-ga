@@ -1,3 +1,3 @@
 # AWS CICD GA
 
-Change aws resource 21x
+Change aws resource
