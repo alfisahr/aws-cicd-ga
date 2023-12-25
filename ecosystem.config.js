@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "NextJS-CICD-Test",
+      name: "app",
       cwd: "/var/frontend",
       script: "npm",
       args: "start",
